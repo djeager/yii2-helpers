@@ -1,0 +1,21 @@
+{
+    "name": "djeager/yii2-helpers",
+    "description": "additional assistants",
+    "type": "library",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Tarasyuk",
+            "email": "djeager404@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "djeager\\helpers\\": "src"
+        }
+    }
+}

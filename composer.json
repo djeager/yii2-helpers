@@ -17,5 +17,6 @@
         "psr-4": {
             "djeager\\helpers\\": "src"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
